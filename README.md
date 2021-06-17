@@ -1,1 +1,1 @@
-# COVID-19-Initiative
+# COVID-19 Initiative
